@@ -1,0 +1,29 @@
+{
+  "name": "test-babel7.13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "browserslist": [
+    "> 0.2%",
+    "Firefox ESR",
+    "ie 11"
+  ],
+  "devDependencies": {
+    "@babel/core": "7.13.8",
+    "@babel/plugin-proposal-class-properties": "7.13.0",
+    "@babel/plugin-proposal-decorators": "7.13.5",
+    "@babel/preset-env": "7.13.8",
+    "@babel/preset-react": "7.12.13",
+    "@babel/preset-typescript": "7.13.0",
+    "@types/webpack-dev-server": "3.11.1",
+    "babel-loader": "8.2.2",
+    "core-js": "3.9.1",
+    "html-webpack-plugin": "5.2.0",
+    "react-app-polyfill": "2.0.0",
+    "ts-node": "9.1.1",
+    "typescript": "4.2.2",
+    "webpack": "5.24.2",
+    "webpack-cli": "4.5.0",
+    "webpack-dev-server": "4.0.0-beta.0"
+  }
+}
